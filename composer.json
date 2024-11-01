@@ -1,0 +1,23 @@
+{
+	"name": "rnaby/woocommerce-account-widget",
+	"description": "TODO: Describe what this package is all about",
+	"prefer-stable": true,
+	"license": "GPL",
+	"type": "wordpress-plugin",
+	"authors": [
+		{
+			"name": "Khan M Rashedun-Naby",
+			"email": "naby88@gmail.com",
+			"role": "Developer"
+		}
+	],
+	"require": {
+	},
+	"require-dev": {
+	},
+	"autoload": {
+		"psr-4": {
+			"TheDramatist\\WooComAW\\": "src/"
+		}
+	}
+}
